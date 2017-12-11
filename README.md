@@ -15,9 +15,9 @@ Microsoft Windows [Version 10.0.15063] <br />
 #### IDE:
 
 Eclipse IDE for Java Developers <br />
-Version: Oxygen.1a Release (4.7.1a)
-Build id: 20171005-1200
-(c) Copyright Eclipse contributors and others 2000, 2017.  All rights reserved. 
+Version: Oxygen.1a Release (4.7.1a) <br />
+Build id: 20171005-1200 <br />
+(c) Copyright Eclipse contributors and others 2000, 2017.  All rights reserved.
 
 ## Compiling and Running The Project
 Download and install Java Software Development Kit (JDK) from the link:
