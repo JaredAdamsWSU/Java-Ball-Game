@@ -48,3 +48,6 @@ correct JDK is selected.
 ## To get your java version:
 In a terminal simply run the command - <br />
 java -version [Enter] <br />
+
+## How to Play:
+This is a simple ball game where the player tries to click on the moving balls before they get out of the scene. The player will score points every time she/he hits a ball. The faster the ball is when player hits the ball, the more points she/he will score.
