@@ -1,17 +1,24 @@
 # Java-Ball-Game
-My machine during developement is running the game using Java version:
+My machine during developement is running on these specifications:
 
-java version "1.8.0_151"
-Java(TM) SE Runtime Environment (build 1.8.0_151-b12)
-Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode)
+Java Version:
+
+java version "1.8.0_151" <br />
+Java(TM) SE Runtime Environment (build 1.8.0_151-b12) <br />
+Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode) <br />
 
 Operating System:
 
-Microsoft Windows [Version 10.0.15063]
-(c) 2017 Microsoft Corporation. All rights reserved.
+Microsoft Windows [Version 10.0.15063] <br />
+(c) 2017 Microsoft Corporation. All rights reserved. <br /> <br />
 
-To get your java version, in a terminal simply run the command
-java -version [Enter]
+IDE:
+
+Eclipse IDE for Java Developers
+
+Version: Oxygen.1a Release (4.7.1a)
+Build id: 20171005-1200
+(c) Copyright Eclipse contributors and others 2000, 2017.  All rights reserved. 
 
 ## Compiling and Running The Project
 Download and install Java Software Development Kit (JDK) from the link:
@@ -38,3 +45,7 @@ On Mac or Linux: Change line #99 as follows before you compile and run your code
 When you open the skeleton code on Eclipse if there are compile time errors, the environment for
 Eclipse may not be set directly. Go to Window>Preferences, click Java/InstalledJREs. Make sure that the
 correct JDK is selected.
+
+## To get your java version:
+In a terminal simply run the command - <br />
+java -version [Enter] <br />
