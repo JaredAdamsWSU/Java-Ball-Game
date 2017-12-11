@@ -13,7 +13,7 @@ Microsoft Windows [Version 10.0.15063]
 To get your java version, in a terminal simply run the command
 java -version [Enter]
 
-#Compiling and Running The Project
+## Compiling and Running The Project
 Download and install Java Software Development Kit (JDK) from the link:
 http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
 On Windows: Before you run your code on command line, make sure that Windows can find the Java
@@ -25,7 +25,7 @@ Files\Java\jdk-9.0.1\bin ) to the beginning of the ‘Path’ variable. )
 On Macs: If the installation of Eclipse fails try the following:
 https://stackoverflow.com/questions/46570624/mac-os-x-eclipse-ide-installation-metadata-log-error
 
-#To run your code on the command line:
+## To run your code on the command line:
 Put all java files, .jar files for the modules you use, applet.policy file, and the config.XML file in
 a single directory. You can then compile the program with the following command:
  javac *.java
