@@ -1,21 +1,20 @@
 # Java-Ball-Game
 My machine during developement is running on these specifications:
 
-Java Version:
+#### Java Version:
 
 java version "1.8.0_151" <br />
 Java(TM) SE Runtime Environment (build 1.8.0_151-b12) <br />
 Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode) <br />
 
-Operating System:
+#### Operating System:
 
 Microsoft Windows [Version 10.0.15063] <br />
-(c) 2017 Microsoft Corporation. All rights reserved. <br /> <br />
+(c) 2017 Microsoft Corporation. All rights reserved. <br />
 
-IDE:
+#### IDE:
 
-Eclipse IDE for Java Developers
-
+Eclipse IDE for Java Developers <br />
 Version: Oxygen.1a Release (4.7.1a)
 Build id: 20171005-1200
 (c) Copyright Eclipse contributors and others 2000, 2017.  All rights reserved. 
